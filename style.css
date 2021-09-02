@@ -5,12 +5,13 @@ body {
 
 div.card {
     border: 10px solid white;
-    border-radius: 10px;
+    border-radius: 20px;
     background-color: chocolate;
     width: 200px;
     height: 350px;
     font-family: calibri;
     font-size: 600%;
+    text-shadow: -6px 0px black;
     display: flex;
     align-items: center;
     justify-content: center;
